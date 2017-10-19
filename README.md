@@ -4,7 +4,7 @@
 ### Plain text version by Alessio Occhiodoro, 2017
 ### Added the feature to group parts with an empty "value" field (like headers, connectors, etc.) using their description.
 
-BOM-Gen is [EAGLE](http://www.cadsoftusa.com) ULP script to generate complete BOM (bill of materials) document for EAGLE PCB projects directly from the board. This script generate BOM document as plain text.
+BOM-Gen is [EAGLE](http://www.cadsoftusa.com) ULP script to generate complete BOM (bill of materials) document for EAGLE PCB projects directly from the board. This script generates a .BOM file as plain text.
 
 Usage
 -----
