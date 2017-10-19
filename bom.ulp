@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////////
 // Copyright (c) 2015 Dilshan R Jayakody.
 // 
-// rev. 11-Oct-2017 - Alessio Occhiodoro:
+// rev. 19-Oct-2017 - Alessio Occhiodoro:
 // 1.  creates a plain .txt file
 // 2. if a component has no set value, is then catalogued by description
 //
