@@ -1,6 +1,6 @@
 # BOM-Gen
 
-BOM-Gen is [EGALE](http://www.cadsoftusa.com) ULP script to generate complete BOM (bill of materials) document for EAGLE PCB projects. This script generate BOM document as formatted HTML document.
+BOM-Gen is [EAGLE](http://www.cadsoftusa.com) ULP script to generate complete BOM (bill of materials) document for EAGLE PCB projects. This script generate BOM document as formatted HTML document.
 
 Usage
 -----
@@ -10,10 +10,13 @@ Usage
 3. If you are in schematic view switch to board view by clicking *File >  Switch to board* menu item.
 4. In Board view click *File > Run ULP...* menu item.
 5. Select *bom.ulp* file and press "Open" button.
-6. When "Save output file" dialog box appears, select location and filename to save HTML BOM file.
+6. When "Save output file" dialog box appears, select location and filename to save .BOM text file.
 
 License
 -------
 
 This script is distributed under the terms of [MIT License](http://opensource.org/licenses/MIT). 
+Original HTML version by Dilshan R Jayakody, 2015
+Plain text version by Alessio Occhiodoro, 2017
+Added the feature to group parts with an empty "value" field (like headers, connectors, etc.) using their description.
 
