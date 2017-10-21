@@ -10,11 +10,11 @@ Usage
 -----
 
 
-2. Run EAGLE and open schematic or board file.
-3. If you are in schematic view switch to board view by clicking *File >  Switch to board* menu item.
-4. In Board view click *File > Run ULP...* menu item.
-5. Navigate to the folder where you copied the *bom.ulp* file, select it and press "Open" button.
-6. When "Save output file" dialog box appears, select location and filename to save .BOM text file.
+- Run EAGLE and open schematic or board file.
+- If you are in schematic view switch to board view by clicking *File >  Switch to board* menu item.
+- In Board view click *File > Run ULP...* menu item.
+- Navigate to the folder where you copied the *bom.ulp* file, select it and press "Open" button.
+- When "Save output file" dialog box appears, select location and filename to save .BOM text file.
 
 License
 -------
