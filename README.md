@@ -6,6 +6,8 @@
 
 BOM-Gen is [EAGLE](http://www.cadsoftusa.com) ULP script to generate complete BOM (bill of materials) document for EAGLE PCB projects directly from the board. This script generates a .BOM file as plain text.
 
+* **TODO: create version to output .csv files (comma separated values)**
+
 Usage
 -----
 
