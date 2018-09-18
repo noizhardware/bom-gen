@@ -1,2 +1,3 @@
 $ cat .gitattributes
 *.ulp linguist-language=Eagle
+*.ulp linguist-detectable=true
